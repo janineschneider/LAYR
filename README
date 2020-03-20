@@ -1,3 +1,6 @@
+LAYR implements the analysis and reconstruction of generic abstractions and addresses the problem of reliable reconstruction of deleted files.
+The strengths of LAYR lie in the fact that new heuristics can be easily added, and the combination of different reconstruction approaches improves reconstruction results.
+
 Build:
 Please use CMake for building LAYR: https://cmake.org/runningcmake/
 
